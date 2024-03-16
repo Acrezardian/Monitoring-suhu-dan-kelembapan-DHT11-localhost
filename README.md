@@ -3,6 +3,7 @@
 - Wemos D1 Mini 
 - 3 Jumper
 - Project Board (opsional)
+- DHT11
 
 ## Rangkaian
 - Hubungkan Wemos D1 Mini dengan Micro USB hubungkan ke PC/Laptop untuk upload code
